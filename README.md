@@ -6,3 +6,7 @@
 <p>API Documentation: https://documenter.getpostman.com/view/33767617/2sA3Bq5X5s</p>
 <br>
 <p>Render URL: https://mentor-and-student-assigning-with-8nkl.onrender.com</p>
+<br>
+<p>Get all Students : https://mentor-and-student-assigning-with-8nkl.onrender.com/students/</p>
+<br>
+<p>Get all Students : https://mentor-and-student-assigning-with-8nkl.onrender.com/mentors/</p>
